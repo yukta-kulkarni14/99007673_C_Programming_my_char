@@ -1,6 +1,6 @@
 /**
  * @file my_char.c
- * @author your name (you@domain.com)
+ * @author yukta k (yuktakulkarnirk.com)
  * @brief 
  * @version 0.1
  * @date 2022-05-05

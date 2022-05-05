@@ -1,8 +1,8 @@
 #TargetName : Dependencies
 #<TAB>commands
 
-PROJ_NAME=tour_manage
-SRC=src/main.c src/my_char.c #src/test_tour_manage.c src/unity.c
+PROJ_NAME=my_char
+SRC=src/main.c src/my_char.c #src/my_char.c src/unity.c
 #To check if the OS is Windows or Linux and set the executable file extension and delete command accordingly
 ifdef OS
 	RM = del /q
